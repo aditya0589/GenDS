@@ -45,7 +45,7 @@ Git: For cloning the repository.
 
 Clone the Repository:
 
-git clone https://github.com/your-username/data-science-code-generator.git
+git clone https://github.com/aditya0589/GenDS.git
 cd data-science-code-generator
 
 Set Up a Virtual Environment:
