@@ -1,0 +1,14 @@
+streamlit
+PyPDF2
+pandas
+numpy
+langchain
+langchain-google-genai
+langchain-community
+google-generativeai
+faiss-cpu
+python-dotenv
+openpyxl
+nbformat
+matplotlib
+seaborn
